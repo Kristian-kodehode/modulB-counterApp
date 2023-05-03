@@ -1,2 +1,0 @@
-# modulB-counterApp
-First js 
